@@ -63,6 +63,7 @@ python ./edit/evaluate_filterqa_layer.py \
   --num_edits 1 \
   --use_cache
 ```
+*You can use your custom model to run the experiments, after capturing the neurons/layers using jupyter notebooks to do the interpretability part.*
 
 ### Jupyter Notebooks
 
